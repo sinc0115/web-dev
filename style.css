@@ -3,6 +3,9 @@
     padding: 0px;
     box-sizing: border-box;
     background-color: #FFE4E1;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: black;
 }
 /*Main Div */
 main {
@@ -20,7 +23,7 @@ main {
 }
 /* Div 1 */
 .div1 {
-    background-color: #ff4757;
+    background-color: red;
     grid-column: 1/-1;
     border-radius: 10px;
 }
@@ -41,7 +44,7 @@ main {
 }
 /* Div5 */
 .div5 {
-    background-color: #2f3542;
+    background-color: #9f70d4;
     grid-row: 2/4;
     grid-column: 4/5;
     border-radius: 10px;
